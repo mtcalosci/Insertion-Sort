@@ -26,6 +26,5 @@ for(i = 0; i < N; i++) {
       printf("Elemento %d dell'array ordinato %d\n",i,v[i]);
       }      
 
-system("pause");
 return (EXIT_SUCCESS);  
 }
