@@ -23,7 +23,7 @@ for(x = 1; x < N; x++) {
 printf("\n\n");
 
 for(i = 0; i < N; i++) {
-      printf("Elemento %d dell'array ordinato\n",i,v[i]);
+      printf("Elemento %d dell'array ordinato %d\n",i,v[i]);
       }      
 
 system("pause");
